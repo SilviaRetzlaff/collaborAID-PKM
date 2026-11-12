@@ -378,7 +378,7 @@ anschlussfähig bleiben
 Dieses Dokument ist mehr als die Folien: Am Ende findest du die **Tour** mit Fragen aus beiden Erkundungen und mit Eingabefeldern. Deine Antworten bleiben in deinem Browser. Also: Link speichern und direkt einen Termin dafür mit dir selbst ausmachen.
 
 <!-- style="font-size: 1.2em; margin-top: 1.5em" -->
-🔗 `https://liascript.github.io/course/?https://raw.githubusercontent.com/SilviaRetzlaff/…`
+🔗 `https://liascript.github.io/course/?https://raw.githubusercontent.com/SilviaRetzlaff/collaborAID-PKM/refs/heads/main/collaborAID_PKM-Zusammenarbeit.md`
 
 ---
 
