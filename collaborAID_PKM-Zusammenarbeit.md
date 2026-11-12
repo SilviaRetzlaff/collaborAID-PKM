@@ -117,7 +117,7 @@ Dieser Workshop arbeitet an dem, was mit *Systems of Trust* vorausgesetzt wird: 
 
 ## Input · Prozess · Output
 
-![Input, Prozess, Output – ich nenne das Spielwiese, Rückgrat und Reibungsfläche](Assets/dreischritt.png)
+![Input, Prozess, Output – ich nenne das Spielwiese, Rückgrat und Reibungsfläche](assets/dreischritt.png)
 
 <!-- style="font-size: 0.85em; opacity: 0.7" -->
 Dreischritt: Dückert 2025; 
@@ -144,7 +144,7 @@ Push/Pull: Jarche 2014
 
 ## Prozesse: das Rückgrat
 
-![Zoom ins Prozess-Feld: hier sitzt das Trusted System](Assets/dreischritt-zoom.png)
+![Zoom ins Prozess-Feld: hier sitzt das Trusted System](assets/dreischritt-zoom.png)
 
 - Das Rückgrat arbeitet gegen das Vergessen (und mit ihm).
 - Was ich dort ablege, ist ein **Versprechen an mein Zukunfts-ICH**.
@@ -250,7 +250,7 @@ Alles, was reinkam oder rausging, ohne dass du es als Teil deines Systems gezäh
 
 ## Die Karte: Loops
 
-![Core, Inner Loop, Outer Loop, Open Loop nach Dückert 2025](Assets/loops.png)
+![Core, Inner Loop, Outer Loop, Open Loop nach Dückert 2025](assets/loops.png)
 
 > PKM heißt, den Core abstecken zu können.
 > Zusammenarbeit heißt: Etwas überschreitet seine Grenze und etwas kommt zurück.
