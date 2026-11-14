@@ -472,6 +472,11 @@ Finde im Text deines Gegenstands eine Stelle, an der etwas deinen Core verlassen
 ---
 
 ## Und jetzt?
+> Reminer: Andock-Praktiken
+> 1. **Eine Quelle der Wahrheit** – auch über die Loop-Grenze
+> 2. **Alias statt Umbenennen** – Passung für dich und das Team
+> 3. **Readme** – verweisen statt angleichen
+> 4. **Zwei Gegenüber** – Zukunfts-ICH und Kolleg:in
 
 **Welche Andock-Praktik probierst du als Erstes?**
 
@@ -482,3 +487,10 @@ Finde im Text deines Gegenstands eine Stelle, an der etwas deinen Core verlassen
     [[___ ___ ___]]
 
 > Nicht jede Reibung muss weg. Aber jede Reibung zeigt dir, wo dein System aufhört und das gemeinsame anfängt.
+
+---
+
+## Wiederholung
+
+Du darfst diese Tour wiederholen: in einem Monat, in drei Monaten, in einem Jahr.
+Speicher dir die Antworten zum Vergleich mit deinem Zukunfts-ICH.
